@@ -8,6 +8,8 @@ return {
     "MunifTanjim/nui.nvim",
   },
   opts = {
+    lang = "java",
+
     -- configuration goes here
     cn = { -- leetcode.cn
       enabled = true, ---@type boolean
